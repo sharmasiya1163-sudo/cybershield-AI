@@ -1,0 +1,11 @@
+START HERE
+1. Extract this ZIP.
+2. Open the CyberShieldAI_Starter folder in VS Code.
+3. Open Terminal > New Terminal.
+4. Run: py -3.11 -m venv .venv
+5. Run: .\.venv\Scripts\python.exe -m pip install -r requirements.txt
+6. Run: .\.venv\Scripts\python.exe -m streamlit run app.py
+7. In the browser, click Load demonstration dataset to test the app.
+8. For real project results, upload your actual labelled CSV dataset in the app and train again.
+
+The demo CSV is synthetic and must not be used as real evaluation evidence.
